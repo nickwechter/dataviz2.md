@@ -22,9 +22,7 @@ I wish I had more time to put into this assignment, I really enjoyed the challen
 
 The supplied OECD chart gives a great snapshot of different countries Debt:GDP ratio status at single period of time, while the line charts are a very effective method of viewing how a single countries Debt:GDP ratio has trended over a long period of time (in this case, 35 years).
 
-The choice for my third chart was an attempt to compare the trends of countries over time, without using overlaying  line graphs. The 3rd grid of charts is undoubtably a handful to keep track of (a lot of colors!), but my hope was that using the USA as the sole distinguished data point (black, as opposed to fitting into the rainbow color pallete), people could at least follow the United States' trend, relative to other countries, over the past 35 years. 
-
-
+The choice for my third chart was an attempt to compare the trends of countries over time without using overlaying  line graphs. The 3rd grid of charts is undoubtably a handful to keep track of (a lot of colors!), but my hope was that using the USA as the sole distinguished data point (black, as opposed to fitting into the rainbow color pallete), people could at least follow the United States' status, relative to other countries, over the past 35 years. To further aid the comparison between countries over time, I allowed the scale of the Y-axis to change with the time for each chart. This decision was made because I wanted to highlight the differences between the the United States and other countries rather than changes in magnitude. 
 
 # Back To Nick's Portfolio
 https://nickwechter.github.io/Wecht-DataViz/
