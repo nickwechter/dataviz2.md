@@ -16,6 +16,16 @@ This chart is meant to visualize snapshots of governments Debt:GDP ratios from 1
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4284228"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+# Final Thoughts
+
+I wish I had more time to put into this assignment, I really enjoyed the challenge of trying to take advantage of the EXPANSIVE data made available through the OECD.
+
+The supplied OECD chart gives a great snapshot of different countries Debt:GDP ratio status at single period of time, while the line charts are a very effective method of viewing how a single countries Debt:GDP ratio has trended over a long period of time (in this case, 35 years).
+
+The choice for my third chart was an attempt to compare the trends of countries over time, without using overlaying  line graphs. The 3rd grid of charts is undoubtably a handful to keep track of (a lot of colors!), but my hope was that using the USA as the sole distinguished data point (black, as opposed to fitting into the rainbow color pallete), people could at least follow the United States' trend, relative to other countries, over the past 35 years. 
+
+
+
 # Back To Nick's Portfolio
 https://nickwechter.github.io/Wecht-DataViz/
 
